@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="stu1" class="com.ant.title1.Student">
+        <property name="name">Lucy</property>
+        <property name="age">18</property>
+        <property name="gender">female</property>
+    </bean>
+
+    <bean id="stu2" class="com.ant.title1.Student">
+        <property name="name">Tom</property>
+        <property name="age">21</property>
+        <property name="gender">male</property>
+    </bean>
+
+    <bean id="stu3" class="com.ant.title1.Student">
+        <property name="name">LiLi</property>
+        <property name="age">23</property>
+        <property name="gender">female</property>
+    </bean>
+</beans>
